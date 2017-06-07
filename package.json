@@ -1,0 +1,16 @@
+{
+  "title": "Listen To Youtube",
+  "name": "listenytube",
+  "version": "0.2.4",
+  "description": "Exract mp3 from youtube videos and download them",
+  "main": "lib/main.js",
+  "author": "rubin",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
